@@ -55,6 +55,8 @@ Existen dos archivos, uno con género gramatical femenino y uno a género gramat
 
 Aun así, las diferencias entre estos dos archivos son mínimas ya que la mayoría de las oraciones se comparten. **Seleccione el archivo con el que se identifique y descárguelo en su computador.** 
 
+Descargue el repositorio aquí: <https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing>
+
 
 ## Haga doble clic en el archivo que descargó. 
 

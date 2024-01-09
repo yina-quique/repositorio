@@ -52,6 +52,8 @@ There are two files: one with feminine gender markers and one with masculine gen
 
 Still, the differences between these two files are minimal since most of the sentences are shared. **Select the file with which you identify yourself and download it to your computer.**  
 
+Download the repository here: <https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing>
+
 ## Double click the file you downloaded.
 
 It will take a few minutes to download and synchronize. Have patience. 

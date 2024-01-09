@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  9 JAN 2024 14:34
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  9 JAN 2024 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1135,7 +1135,7 @@ TORIO EN SU TABLET O CELULAR
  []
 
 [16]
-Overfull \hbox (11.2847pt too wide) in paragraph at lines 231--231
+Overfull \hbox (11.2847pt too wide) in paragraph at lines 233--233
 []\TU/lmr/bx/n/14.4 Ahora seleccione la opción de “sincronización” 
  []
 
@@ -1259,12 +1259,12 @@ Y ON YOUR TABLET OR PHONE
 Chapter 6.
 [33]
 No file repositorio.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 483.
 [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 483.
 (./repositorio.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 479.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 479.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 483.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 483.
 
 LaTeX Warning: There were multiply-defined labels.
 
