@@ -1,7 +1,7 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
-date: "2023-12-15"
+title: "Repositorio de oraciones para entrenamiento de guiones en español"
+author: "Yina Quique, PhD"
+date: "2024-01-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -15,43 +15,29 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# About
+# Intro {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+## Intro en **español** {-}
 
-## Usage 
+Este repositorio se diseñó como parte de un proyecto financiado por el National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Switzer Research Fellowship Program.
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+Usted encontrará un repositorio de oraciones diseñadas por hablantes de español con afasia, cuidadores, y clínicos trabajando con esta población. El repositorio es completamente **gratuito**. 
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+Las oraciones pueden ser **usadas por personas con afasia que hablen español quienes quieran aprender oraciones de la vida cotidiana.** Las oraciones están diseñadas para ser aprendidas usando un software llamado Anki. 
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-## Render book
-
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
+Necesitará un computador. También puede utilizar el repositorio desde su tablet o teléfono celular. 
 
 
-```r
-bookdown::render_book()
-```
+## Intro in **English** {-}
 
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+This repository was designed as part of a project funded by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Switzer Research Fellowship Program.
 
-## Preview book
+You will find a sentence repository designed by Spanish speakers with aphasia, caregivers, and clinicians working with this population. The repository is completely **free**.
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+The sentences can be **used by Spanish-speaking people with aphasia who want to learn sentences to communicate in everyday situations.** The sentences are designed to be learned using software called Anki.
 
+You will need a computer. You can also use the repository on your tablet or mobile phone.
 
-```r
-bookdown::serve_book()
-```
 
 
 

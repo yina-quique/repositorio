@@ -1,53 +1,43 @@
-# Blocks
+# Instructions to use the repository on your tablet or phone
 
-## Equations
+To follow these steps you must have **completed** the [instructions to create an Anki account and download the repository to your computer.](#cross_3)
 
-Here is an equation.
-
-\begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  (\#eq:binom)
-\end{equation} 
-
-You may refer to using `\@ref(eq:binom)`, like see Equation \@ref(eq:binom).
+## Open your App store (if you have an iPhone) or Play store (if you have an Android).
 
 
-## Theorems and proofs
+## Look for the app called Anki.
 
-Labeled theorems can be referenced in text using `\@ref(thm:tri)`, for example, check out this smart theorem \@ref(thm:tri).
+The Anki *icon* looks like this:
 
-::: {.theorem #tri}
-For a right triangle, if $c$ denotes the *length* of the hypotenuse
-and $a$ and $b$ denote the lengths of the **other** two sides, we have
-$$a^2 + b^2 = c^2$$
-:::
-
-Read more here <https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html>.
-
-## Callout blocks
+<img src="images/reposit_en/Anki_logo.png" width="50%" />
 
 
-The `bs4_book` theme also includes special callout blocks, like this `.rmdnote`.
+## Download the app.
 
-::: {.rmdnote}
-You can use **markdown** inside a block.
-
-
-```r
-head(beaver1, n = 5)
-#>   day time  temp activ
-#> 1 346  840 36.33     0
-#> 2 346  850 36.34     0
-#> 3 346  900 36.35     0
-#> 4 346  910 36.42     0
-#> 5 346  920 36.55     0
-```
-
-:::
-
-It is up to the user to define the appearance of these blocks for LaTeX output. 
-
-You may also use: `.rmdcaution`, `.rmdimportant`, `.rmdtip`, or `.rmdwarning` as the block name.
+Download the app on your tablet or phone. Please note that Anki is **free on Google play**, but requires **payment on the App Store.**
 
 
-The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html
+## Link your account.
+
+Enter the app and click on the **three lines** usually found on the left side of the screen.
+
+<img src="images/reposit_en/tres_lineas.png" width="50%" />
+
+
+## Selecting these three lines will open the menu seen below.
+
+Select where it says *settings*
+
+<img src="images/reposit_en/menu_config.jpeg" width="50%" />
+
+
+
+## Now select the “sync” option
+
+## Select the “AnkiWeb Account” option.
+
+Enter your email and password.[The same email and password you used to create the Anki account](#cross_3)
+
+**Note:** You may also be required to enter your Anki email and password as soon as you open the app.
+
+## It will take a few minutes to sync and then you will see the repository.
