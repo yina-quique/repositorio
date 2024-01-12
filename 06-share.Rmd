@@ -4,18 +4,20 @@
 
 <https://youtu.be/v-dNBT08lm0?si=_ehTlVFt6bwPHegl>
 
-Additionally, in this file you will find the steps to download them and keep them close to your computer/tablet/Phone
+Additionally, in the link below, you will find the practice steps to keep them close to your computer/tablet/phone
+
+<https://drive.google.com/file/d/17YQczy3QIZr6vow7PPEFlOrd2IbLUY2y/view?usp=drive_link>
 
 The steps are as follows to learn a new sentence:
 
 ## Listen {#cross_6}
-*Listen* to the sentence by clicking icon: Listen WITHOUT speaking. 
+*Listen* to the sentence by clicking icon ![](images/play_icon.png) Listen WITHOUT speaking. 
 
 ## Listen and point
-Listen to the sentence again by clicking the icon: *As you listen*, point with your finger to each word of the written sentence.
+Listen to the sentence again by clicking the icon ![](images/play_icon.png) *As you listen*, point with your finger to each word of the written sentence.
 
 ## Together
-Try saying the sentence *simultaneously * with the video. Do this step **twice.**  For this, you will need to click the icon again:
+Try saying the sentence *simultaneously * with the video. Do this step **twice.**  For this, you will need to click the icon again ![](images/play_icon.png)
 
 ## You 
 Try saying the sentence *without* help from the video.

@@ -1,7 +1,7 @@
 --- 
 title: "Repositorio de oraciones para entrenamiento de guiones en español"
 author: "Yina Quique, PhD"
-date: "2024-01-09"
+date: "2024-01-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

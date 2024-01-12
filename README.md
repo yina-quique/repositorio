@@ -1,13 +1,11 @@
-Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+ESPAÑOL
+Este repositorio se diseñó como parte de un proyecto financiado por el National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Switzer Research Fellowship Program.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+Usted encontrará un repositorio de oraciones diseñadas por hablantes de español con afasia, cuidadores, y clínicos trabajando con esta población. El repositorio es completamente **gratuito**. 
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
 
-Additional resources:
+ENGLISH
+This repository was designed as part of a project funded by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Switzer Research Fellowship Program.
 
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+You will find a sentence repository designed by Spanish speakers with aphasia, caregivers, and clinicians working with this population. The repository is completely **free**.

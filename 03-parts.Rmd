@@ -5,18 +5,20 @@
 
 <https://youtu.be/v-dNBT08lm0?si=_ehTlVFt6bwPHegl>
 
-Además, en este archivo encontrarán los pasos para que los descarguen y los mantengan cerca de su computador/Tablet/Teléfono
+Además, en el siguiente link encontrarán los pasosde práctica para que los descarguen y los mantengan cerca de su computador/tablet/teléfono
+
+<https://drive.google.com/file/d/17YQczy3QIZr6vow7PPEFlOrd2IbLUY2y/view?usp=drive_link>
 
 Los pasos son los siguientes para aprender una oración nueva:
 
 ## Escucha {#cross_2}
-*Escuchen* la oración dando clic o tocando el ícono: Escuchen SIN hablar. 
+*Escuchen* la oración dando clic o tocando el ícono ![](images/play_icon.png) Escuchen SIN hablar. 
 
 ## Escucha y señala
-Escuchen nuevamente la oración dando clic o tocando el ícono:  *Mientras escuchan, señalen* con su dedo palabra por palabra de la oración escrita. 
+Escuchen nuevamente la oración dando clic o tocando el ícono ![](images/play_icon.png) *Mientras escuchan, señalen* con su dedo palabra por palabra de la oración escrita. 
 
 ## Juntos
-Intenten decir la oración *al mismo tiempo* que el video. Hagan este paso **dos** veces. Para esto, nuevamente necesitarán dar clic o tocar el ícono: 
+Intenten decir la oración *al mismo tiempo* que el video. Hagan este paso **dos** veces. Para esto, nuevamente necesitarán dar clic o tocar el ícono ![](images/play_icon.png) 
 
 ## Tú solo
 Intenten decir la oración *sin* ayuda del video.

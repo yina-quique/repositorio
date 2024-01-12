@@ -9,7 +9,7 @@ To follow these steps you must have **completed** the [instructions to create an
 
 The Anki *icon* looks like this:
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='10%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_en/Anki_logo.png")
 ```
 
@@ -23,7 +23,7 @@ Download the app on your tablet or phone. Please note that Anki is **free on Goo
 
 Enter the app and click on the **three lines** usually found on the left side of the screen.
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_en/tres_lineas.png")
 ```
 
@@ -32,7 +32,7 @@ knitr::include_graphics("images/reposit_en/tres_lineas.png")
 
 Select where it says *settings*
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_en/menu_config.jpeg")
 ```
 

@@ -9,7 +9,7 @@ To follow these steps you must have **completed** the [instructions to create an
 
 The Anki *icon* looks like this:
 
-<img src="images/reposit_en/Anki_logo.png" width="50%" />
+<img src="images/reposit_en/Anki_logo.png" width="10%" />
 
 
 ## Download the app.
@@ -21,14 +21,14 @@ Download the app on your tablet or phone. Please note that Anki is **free on Goo
 
 Enter the app and click on the **three lines** usually found on the left side of the screen.
 
-<img src="images/reposit_en/tres_lineas.png" width="50%" />
+<img src="images/reposit_en/tres_lineas.png" width="30%" />
 
 
 ## Selecting these three lines will open the menu seen below.
 
 Select where it says *settings*
 
-<img src="images/reposit_en/menu_config.jpeg" width="50%" />
+<img src="images/reposit_en/menu_config.jpeg" width="30%" />
 
 
 

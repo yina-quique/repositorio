@@ -7,19 +7,19 @@ En su computador, cree una cuenta de Anki. La cuenta se crea de forma **gratuita
 
 <https://ankiweb.net/account/signup>
 
-<img src="images/reposit_sp/sign_up.png" width="100%" />
+<img src="images/reposit_sp/sign_up.png" width="90%" />
 
 
 ## Escriba su email y cree una contraseña para Anki. {#cross_1}
 
-<img src="images/reposit_sp/email_password.png" width="100%" />
+<img src="images/reposit_sp/email_password.png" width="90%" />
 
 
 ## Verifique su email.
 
 Le llegará un correo electrónico a la cuenta de correo que usted indicó. *Verifique* la cuenta dando clic en el enlace que le llegó a su correo.
 
-<img src="images/reposit_sp/email_verification.png" width="100%" />
+<img src="images/reposit_sp/email_verification.png" width="90%" />
 
 
 ## Descargue Anki en su computador. 
@@ -28,7 +28,7 @@ Descargue Anki en su *computador*, desde la siguiente página web:
 
 <https://apps.ankiweb.net/>
 
-<img src="images/reposit_sp/download.png" width="100%" />
+<img src="images/reposit_sp/download.png" width="60%" />
 
 
 
@@ -36,12 +36,12 @@ Descargue Anki en su *computador*, desde la siguiente página web:
 
 Siga el proceso de instalación de Anki en su computador. Una vez terminada la instalación, Anki se verá *similar* a la imagen que se muestra a continuación:
 
-<img src="images/reposit_sp/anki_screen.png" width="100%" />
+<img src="images/reposit_sp/anki_screen.png" width="60%" />
 
 
 ## De clic en sincronizar. 
 
-<img src="images/reposit_sp/clic_sincronizar.png" width="100%" />
+<img src="images/reposit_sp/clic_sincronizar.png" width="60%" />
 
 
 ## Ingrese su email y contraseña. [Las que creó anteriormente en el paso 1.2](#cross_1).  
@@ -51,23 +51,25 @@ Siga el proceso de instalación de Anki en su computador. Una vez terminada la i
 
 *Nota:* Intentamos hacer oraciones con género gramatical neutro, pero hay algunas que tienen marcadores de género (p.ej., estoy preocupad**a** vs. Estoy preocupad**o**). 
 
-Existen dos archivos, uno con género gramatical femenino y uno a género gramatical masculino. Por ejemplo, el archivo femenino tiene oraciones como *estoy tranquila* y el masculino tiene oraciones como *me siento solo.* 
+Existen dos archivos, uno con género gramatical femenino (fem.colpkg) y uno a género gramatical masculino (mas.colpkg). Por ejemplo, el archivo femenino tiene oraciones como *estoy tranquila* y el masculino tiene oraciones como *me siento solo.* 
 
 Aun así, las diferencias entre estos dos archivos son mínimas ya que la mayoría de las oraciones se comparten. **Seleccione el archivo con el que se identifique y descárguelo en su computador.** 
 
-Descargue el repositorio aquí: <https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing>
+Descargue el repositorio aquí descargue uno de los dos archivos, fem.colpkg o mas.colpkg: 
+
+<https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing> 
 
 
 ## Haga doble clic en el archivo que descargó. 
 
 Se va a demorar algunos minutos descargando y sincronizando. Tenga paciencia. Si da clic en *sincronizar* verá algo parecido a la siguiente imagen. 
 
-<img src="images/reposit_sp/sincronizar.png" width="100%" />
+<img src="images/reposit_sp/sincronizar.png" width="60%" />
 
 
 ## En caso de que le salga este aviso mientras esté sincronizando, seleccione la opción “Subir a AnkiWeb.” {-}
 
-<img src="images/reposit_sp/subir_a_anki.png" width="100%" />
+<img src="images/reposit_sp/subir_a_anki.png" width="60%" />
 
 
 ## ¡Listo! 

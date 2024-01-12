@@ -10,7 +10,7 @@ Para seguir estos pasos debe haber **completado** las [instrucciones para crear 
 
 El *ícono* de Anki se parece al siguiente: 
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='10%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/Anki_logo.png")
 ```
 
@@ -24,7 +24,7 @@ Descargue la aplicación en su tablet o celular. Tenga en cuenta que Anki es **g
 
 Entre a la aplicación de Anki y de clic en las *tres líneas* que se encuentran generalmente en la parte izquierda de la pantalla
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/tres_lineas.png")
 ```
 
@@ -33,7 +33,7 @@ knitr::include_graphics("images/reposit_sp/tres_lineas.png")
 
 Seleccione en donde dice *configuración*
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/menu_config.jpg")
 ```
 
@@ -41,7 +41,7 @@ knitr::include_graphics("images/reposit_sp/menu_config.jpg")
 
 ## Ahora seleccione la opción de “sincronización”
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/config_sincro.jpg")
 ```
 
@@ -50,13 +50,13 @@ knitr::include_graphics("images/reposit_sp/config_sincro.jpg")
 
 Ponga su email y contraseña.[El mismo email y contraseña que usó para crear la cuenta en Anki](#cross_1)
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/cuenta_anki1.jpg")
 ```
 
 **Nota:** Puede ser también que deba ingresar su email y contraseña de Anki tan pronto abra la aplicación
 
-```{r echo=FALSE, out.width='50%', layout="l-body-outset"}
+```{r echo=FALSE, out.width='30%', layout="l-body-outset"}
 knitr::include_graphics("images/reposit_sp/cuenta_anki2.jpg")
 ```
 
