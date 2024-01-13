@@ -24,7 +24,7 @@ Las oraciones pueden ser **usadas por personas con afasia que hablen español qu
 Necesitará un computador. También puede utilizar el repositorio desde su tablet o teléfono celular. 
 
 Encontrará instrucciones en **español** en los capítulos **1,2,3.** 
-Encontrará instrucciones en **inglés** en los capítulos **3,4,5.** 
+Encontrará instrucciones en **inglés** en los capítulos **4,5,6.** 
 
 
 ## Intro in **English** {-}
@@ -38,7 +38,7 @@ The sentences can be **used by Spanish-speaking people with aphasia who want to 
 You will need a computer. You can also use the repository on your tablet or mobile phone.
 
 You will find instructions in **Spanish** in chapters **1,2,3.**
-You will find instructions in **English** in chapters **3,4,5.**
+You will find instructions in **English** in chapters **4,5,6.**
 
 
 
