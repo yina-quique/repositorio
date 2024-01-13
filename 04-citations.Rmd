@@ -1,3 +1,5 @@
+# (PART\*) **INSTRUCTIONS IN ENGLISH** {-}
+
 # Instructions to create an Anki account and download the repository {#cross_3}
 
 ## Create an account on Anki.

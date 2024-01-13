@@ -1,3 +1,4 @@
+# (PART\*) **INSTRUCCIONES EN ESPAÑOL** {-} 
 
 # Instrucciones para crear una cuenta en Anki y descargar el repositorio {#cross_0}
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 JAN 2024 13:43
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  13 JAN 2024 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,13 +1054,15 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 2.
-[3])
+[3] [4])
 \tf@toc=\write3
 \openout3 = `repositorio.toc'.
 
-[4] [5] [6
+[5] [6
 
-] [7] [8
+] [7] [8] [9
+
+] [10
 
 ]
 Chapter 1.
@@ -1071,23 +1073,23 @@ File: images/reposit_sp/email_password.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[9]
+[11]
 File: images/reposit_sp/email_verification.png Graphic file (type bmp)
 <images/reposit_sp/email_verification.png>
 File: images/reposit_sp/download.png Graphic file (type bmp)
 <images/reposit_sp/download.png>
 
 Overfull \hbox (165.53903pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 10 \TU/lmr/m/sl/10 CHAPTER 1.  INSTRUCCIONES PARA CREAR UNA CUEN
+\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INSTRUCCIONES PARA CREAR UNA CUEN
 TA EN ANKI Y DESCARGAR EL REPOSITORIO
  []
 
-[10]
+[12]
 File: images/reposit_sp/anki_screen.png Graphic file (type bmp)
 <images/reposit_sp/anki_screen.png>
 File: images/reposit_sp/clic_sincronizar.png Graphic file (type bmp)
 <images/reposit_sp/clic_sincronizar.png>
-[11]
+[13]
 File: images/reposit_sp/sincronizar.png Graphic file (type bmp)
 <images/reposit_sp/sincronizar.png>
 File: images/reposit_sp/subir_a_anki.png Graphic file (type bmp)
@@ -1097,17 +1099,17 @@ Underfull \vbox (badness 3701) has occurred while \output is active []
 
 
 Overfull \hbox (165.53903pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INSTRUCCIONES PARA CREAR UNA CUEN
-TA EN ANKI Y DESCARGAR EL REPOSITORIO
- []
-
-[12] [13]
-Overfull \hbox (165.53903pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INSTRUCCIONES PARA CREAR UNA CUEN
 TA EN ANKI Y DESCARGAR EL REPOSITORIO
  []
 
-[14
+[14] [15]
+Overfull \hbox (165.53903pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  INSTRUCCIONES PARA CREAR UNA CUEN
+TA EN ANKI Y DESCARGAR EL REPOSITORIO
+ []
+
+[16
 
 ]
 Chapter 2.
@@ -1116,13 +1118,13 @@ File: images/reposit_sp/Anki_logo.png Graphic file (type bmp)
 
 Underfull \vbox (badness 3281) has occurred while \output is active []
 
-[15]
+[17]
 File: images/reposit_sp/tres_lineas.png Graphic file (type bmp)
 <images/reposit_sp/tres_lineas.png>
 File: images/reposit_sp/menu_config.jpg Graphic file (type bmp)
 <images/reposit_sp/menu_config.jpg>
 
-Overfull \hbox (11.2847pt too wide) in paragraph at lines 235--235
+Overfull \hbox (11.2847pt too wide) in paragraph at lines 245--245
 []\TU/lmr/bx/n/14.4 Ahora seleccione la opción de “sincronización” 
  []
 
@@ -1133,11 +1135,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (102.14012pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 2.  INSTRUCCIONES PARA USAR EL REPOSI
+\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 2.  INSTRUCCIONES PARA USAR EL REPOSI
 TORIO EN SU TABLET O CELULAR
  []
 
-[16]
+[18]
 File: images/reposit_sp/cuenta_anki1.jpg Graphic file (type bmp)
 <images/reposit_sp/cuenta_anki1.jpg>
 File: images/reposit_sp/cuenta_anki2.jpg Graphic file (type bmp)
@@ -1145,13 +1147,13 @@ File: images/reposit_sp/cuenta_anki2.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[17]
+[19]
 Overfull \hbox (102.14012pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 2.  INSTRUCCIONES PARA USAR EL REPOSI
+\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 2.  INSTRUCCIONES PARA USAR EL REPOSI
 TORIO EN SU TABLET O CELULAR
  []
 
-[18]
+[20]
 Chapter 3.
 File: images/play_icon.png Graphic file (type bmp)
 <images/play_icon.png>
@@ -1160,12 +1162,16 @@ File: images/play_icon.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[19
+[21
 
 ]
 File: images/play_icon.png Graphic file (type bmp)
 <images/play_icon.png>
-[20]
+[22] [23
+
+] [24
+
+]
 Chapter 4.
 File: images/reposit_en/sign_up.png Graphic file (type bmp)
 <images/reposit_en/sign_up.png>
@@ -1174,38 +1180,36 @@ File: images/reposit_en/email_password.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[21
-
-]
+[25]
 File: images/reposit_en/email_verification.png Graphic file (type bmp)
 <images/reposit_en/email_verification.png>
 File: images/reposit_en/download.png Graphic file (type bmp)
 <images/reposit_en/download.png>
 
 Overfull \hbox (152.12013pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 4.  INSTRUCTIONS TO CREATE AN ANKI AC
+\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 4.  INSTRUCTIONS TO CREATE AN ANKI AC
 COUNT AND DOWNLOAD THE REPOSITORY
  []
 
-[22]
+[26]
 File: images/reposit_en/anki_screen.png Graphic file (type bmp)
 <images/reposit_en/anki_screen.png>
 File: images/reposit_en/subir_a_anki.png Graphic file (type bmp)
 <images/reposit_en/subir_a_anki.png>
-[23]
+[27]
 Overfull \hbox (152.12013pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 4.  INSTRUCTIONS TO CREATE AN ANKI AC
+\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 4.  INSTRUCTIONS TO CREATE AN ANKI AC
 COUNT AND DOWNLOAD THE REPOSITORY
  []
 
-[24]
+[28]
 Chapter 5.
 File: images/reposit_en/Anki_logo.png Graphic file (type bmp)
 <images/reposit_en/Anki_logo.png>
 
 Underfull \vbox (badness 3601) has occurred while \output is active []
 
-[25
+[29
 
 ]
 File: images/reposit_en/tres_lineas.png Graphic file (type bmp)
@@ -1214,23 +1218,23 @@ File: images/reposit_en/menu_config.jpeg Graphic file (type bmp)
 <images/reposit_en/menu_config.jpeg>
 
 Overfull \hbox (90.61014pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 5.  INSTRUCTIONS TO USE THE REPOSITOR
+\TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 5.  INSTRUCTIONS TO USE THE REPOSITOR
 Y ON YOUR TABLET OR PHONE
  []
 
-[26]
+[30]
 Overfull \hbox (116.17464pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10 5.8.  IT WILL TAKE A FEW MINUTES TO SYNC AND THEN YOU WILL SEE 
-THE REPOSITORY. \TU/lmr/m/n/10 27
+THE REPOSITORY. \TU/lmr/m/n/10 31
  []
 
-[27]
+[31]
 Overfull \hbox (90.61014pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 5.  INSTRUCTIONS TO USE THE REPOSITOR
+\TU/lmr/m/n/10 32 \TU/lmr/m/sl/10 CHAPTER 5.  INSTRUCTIONS TO USE THE REPOSITOR
 Y ON YOUR TABLET OR PHONE
  []
 
-[28
+[32
 
 ]
 Chapter 6.
@@ -1240,25 +1244,25 @@ File: images/play_icon.png Graphic file (type bmp)
 <images/play_icon.png>
 File: images/play_icon.png Graphic file (type bmp)
 <images/play_icon.png>
-[29]
+[33]
 No file repositorio.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 489.
-[30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 489.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 503.
+[34]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 503.
 (./repositorio.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 489.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 489.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 503.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 503.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27692 strings out of 492916
- 506498 string characters out of 6133346
- 724359 words of memory out of 5000000
- 31457 multiletter control sequences out of 15000+600000
+ 27696 strings out of 492916
+ 506574 string characters out of 6133346
+ 723558 words of memory out of 5000000
+ 31461 multiletter control sequences out of 15000+600000
  538740 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,115p,810b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on repositorio.pdf (30 pages).
+Output written on repositorio.pdf (34 pages).
