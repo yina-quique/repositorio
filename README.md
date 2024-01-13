@@ -11,3 +11,8 @@ Usted encontrará un repositorio de oraciones diseñadas por hablantes de españ
 This repository was designed as part of a project funded by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Switzer Research Fellowship Program.
 
 You will find a sentence repository designed by Spanish speakers with aphasia, caregivers, and clinicians working with this population. The repository is completely **free**.
+
+
+
+Bookdown code credit to:
+<https://bookdown.org/forforture/firstbookdown/>
