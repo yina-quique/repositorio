@@ -1,10 +1,15 @@
 # Steps to study sentences {#cross_5}
 
-*Note:* This support video describes the steps to follow when seeing a new image/sentence.
+*Note:* This support video describes the steps to follow when seeing a new image/sentence.It is very important to practice following these steps.
 
 <https://youtu.be/v-dNBT08lm0?si=_ehTlVFt6bwPHegl>
 
-Additionally, in the link below, you will find the practice steps to keep them close to your computer/tablet/phone
+You can follow these steps directly from your computer by enabling the instructions in Anki (you can also disable them once you've memorized each step). To enable the instructions, click on Tools and then click the Activar/Desactivar Instrucciones option.
+
+<img src="images/reposit_en/activar_instruc.png" width="70%" />
+
+
+Additionally, in the link below, you will find the practice steps to keep them close to your computer.
 
 <https://drive.google.com/file/d/17YQczy3QIZr6vow7PPEFlOrd2IbLUY2y/view?usp=drive_link>
 
@@ -27,12 +32,20 @@ Rate your production using the *following options*:
 
 - Again = “I didn't do it very well and I need to do it again.”
 
-- Difficult = “I did it more or less”
+- Almost = “I did it more or less” 
 
 - Good = “I did well”
-
-- Easy = Ignore this option for now
 
 ## Important! If it is a sentence you have **already** seen, BEFORE [step 1](#cross_6), try to remember the sentence with the help of the image.
 
 ## The steps described here are *based on scientific evidence* from a treatment called Script Training.
+
+## You can also create your own sentences
+
+To create your own sentences, click on add and then follow the instructions. 
+- Select a unique image and drag it, or select the file from your computer
+- Write the sentence that you want to add
+- Upload a video (similar to the examples; a mouth saying the sentence)
+- Write a context to categorize your sentence; you can also write "personal" to indicate that it is one of your own sentences.  
+
+<img src="images/reposit_en/nuevas.png" width="90%" />

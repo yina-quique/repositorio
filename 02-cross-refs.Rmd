@@ -1,6 +1,8 @@
 
 # Instrucciones para usar el repositorio en su tablet o celular 
 
+Tenga en cuenta que, dependiendo de la versión de Anki, el repositorio *puede no funcionar correctamente en su tableta o teléfono inteligente*. Por lo tanto, recomendamos usarlo solo en su computador. Los pasos que mencionamos a continuación son opcionales. 
+
 Para seguir estos pasos debe haber **completado** las [instrucciones para crear una cuenta en Anki y bajar el repositorio a su computador.](#cross_0)
 
 ## Abra su App store (si tiene un iPhone) o Play store (si tiene un Android). 

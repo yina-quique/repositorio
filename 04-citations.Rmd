@@ -1,6 +1,6 @@
 # (PART\*) **INSTRUCTIONS IN ENGLISH** {-}
 
-# Instructions to create an Anki account and download the repository {#cross_3}
+# Instructions to create an Anki account and download the repository 
 
 ## Create an account on Anki.
 
@@ -49,6 +49,20 @@ Follow the Anki installation process on your computer. Once the installation is 
 knitr::include_graphics("images/reposit_en/anki_screen.png")
 ```
 
+## Download the add-on
+
+This add-on was specifically developed for individuals with aphasia.
+It offers guided practice instructions, allows you to organize sentences into custom categories, and supports sentence creation tailored to their needs.
+
+To install the plugin: Click Tools in the menu bar. Select add-ons from the dropdown. In the new window, choose Get Add-ons to begin installation.
+
+Enter the following number: **254980899** and click OK. Then, restart Anki.
+
+```{r echo=FALSE, out.width='60%', layout="l-body-outset"}
+knitr::include_graphics("images/reposit_en/complemento.png")
+```
+
+We appreciate and acknowledge the work of engineer Juan Sebastián Angarita in the design of this add-on!
 
 ## Click on sync.
 
@@ -58,13 +72,16 @@ knitr::include_graphics("images/reposit_en/anki_screen.png")
 
 ## Download the repository.
 
-*Note:* We tried to make gender-neutral sentences in Spanish (grammatically speaking), but some sentences have grammatical gender markers (e.g., estoy preocupad**a** vs. Estoy preocupad**o**).
 
-There are two files: one with feminine gender markers (fem.colpkg) and one with masculine gender markers (mas.colpkg). For example, the feminine file has sentences like *estoy tranquila* and the masculine file has sentences like *me siento solo.* 
+There are two repositories. The first repository was designed for people with aphasia living in the United States (**repositorio_usa**).
 
-Still, the differences between these two files are minimal since most of the sentences are shared. **Select the file with which you identify yourself and download it to your computer.**  
+The second repository was designed for people with aphasia in Colombia, but can be used by other countries in Latin America (**repositorio_colombia**). We are grateful to Northwestern University's Global Health Research Catalyzer Funding, which allowed us to create the repository in Colombia.
 
-Download the repository here (download either fem.colpkg or mas.colpkg) <https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing>
+Select **one** repository and download it. Downloading both repositories will cause errors that will prevent Anki from working properly. **Only download one repository,** whichever you prefer.
+
+Download **one** of the two repositories here: <https://drive.google.com/drive/folders/1UgL4qijIzZTPCvqIir-spHCznOdJrdf8?usp=sharing>
+
+*Note:* We tried to make sentences with neutral grammatical gender, but there are some that have gender markers (e.g., estoy preocupad**a** vs. Estoy preocupad**o**).
 
 ## Double click the file you downloaded.
 
@@ -82,6 +99,6 @@ knitr::include_graphics("images/reposit_en/subir_a_anki.png")
 
 Once it *finishes synchronizing,* the repository will be ready to be used.
 
-The next step is optional and involves synchronizing the repository on your tablet or phone. You can practice on the computer, tablet, or both.
+The next step is optional and involves synchronizing the repository on your tablet or phone. Please note that, depending on the version of Anki, the repository *may not function properly on your tablet or smartphone.* So, we recommend using it on your computer only. 
 
 If you don't want or need to use your tablet or phone to practice, then skip to [how to practice sentences.](#cross_5) 

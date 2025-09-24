@@ -4,6 +4,7 @@ cross_1
 verifique-su-email.
 descargue-anki-en-su-computador.
 instale-anki-en-su-computador.
+descargue-el-complemento.
 de-clic-en-sincronizar.
 ingrese-su-email-y-contraseña.-las-que-creó-anteriormente-en-el-paso-1.2.
 descargue-el-repositorio.
@@ -26,11 +27,14 @@ tú-solo
 califica
 importante-si-es-una-oración-que-ya-han-visto-antes-del-paso-1-intente-recordar-la-oración-con-ayuda-de-la-imagen.
 los-pasos-descritos-aquí-son-basados-en-la-evidencia-científica-de-un-tratamiento-llamado-script-training.
-cross_3
+también-puede-crear-sus-propias-oraciones
+instructions-to-create-an-anki-account-and-download-the-repository
 create-an-account-on-anki.
+cross_3
 check-your-email.
 download-anki-to-your-computer.
 install-anki-on-your-computer.
+download-the-add-on
 click-on-sync.
 enter-your-email-and-password.-the-ones-you-created-previously-in-4.2.
 download-the-repository.
@@ -53,3 +57,4 @@ you
 rate
 important-if-it-is-a-sentence-you-have-already-seen-before-step-1-try-to-remember-the-sentence-with-the-help-of-the-image.
 the-steps-described-here-are-based-on-scientific-evidence-from-a-treatment-called-script-training.
+you-can-also-create-your-own-sentences
